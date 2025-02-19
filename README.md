@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @taha185
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning python and batch
 
-- 📫 How to reach me instagram
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: uhhh the cat says: meiw?
+# About Me
+Hi, I'm Taha, a 15-year-old from Morocco. I'm passionate about programming and technology, constantly learning and experimenting with code. I may still be at the beginning of my programming journey, but I'm eager to grow and improve. I love working on small projects and challenging myself to learn new languages and techniques. My goal is to keep pushing my skills forward and contribute to the tech community. Feel free to check out my repositories and follow my progress!
 
-<!---
-taha185/taha185 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
