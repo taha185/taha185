@@ -22,7 +22,7 @@
 
 ## 📊 Channel Stats Tracker
 
-[![Subscribers](https://img.shields.io/youtube/channel/subscribers/TahaI85 label=YT%20Subscribers&style=for-the-badge&color=red)](https://youtube.com/@TahaI85)
+[![Subscribers](https://img.shields.io/youtube/channel/subscribers/TahaI85label=YT%20Subscribers&style=for-the-badge&color=red)](https://youtube.com/@TahaI85)
 [![Views](https://img.shields.io/youtube/channel/views/UC_YOUR_CHANNEL_ID?label=Channel%20Views&style=for-the-badge&color=blue)](https://youtube.com/@TahaI85)
 
 ---
